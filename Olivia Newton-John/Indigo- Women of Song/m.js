@@ -1,0 +1,13 @@
+var f = [];				
+f[0]	= "v0.0.7";			
+f[1]	= "01 Love Me or Leave Me.mp3";		
+f[2]	= "02 How Insensitive.mp3";		
+f[3]	= "03 How Glad I Am.mp3";		
+f[4]	= "04 Anyone Who Had a Heart.mp3";		
+f[5]	= "05 Where Have All the Flowers Gone.mp3";		
+f[6]	= "06 Cry Me a River.mp3";		
+f[7]	= "07 Summertime.mp3";		
+f[8]	= "08 Send in the Clowns.mp3";		
+f[9]	= "09 Rainy Days and Mondays.mp3";		
+f[10]	= "10 Lovin' You.mp3";		
+f[11]	= "11 Alfie.mp3";		
